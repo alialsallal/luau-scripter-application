@@ -1,3 +1,3 @@
 # luau-scripter-application
-hiddendevs
+hiddendevs,
 place in starterplayerscripts
